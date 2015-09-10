@@ -1,5 +1,7 @@
 # TODO
-- Setup composer.json
-- Setup phpunit
-- Draft default interfaces
+- - Setup composer.json -
+- - Setup phpunit -
+- - Draft default interfaces -
 - Draft implementations
+-- - Login -
+-- Validate

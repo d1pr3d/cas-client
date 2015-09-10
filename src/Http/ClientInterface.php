@@ -7,7 +7,8 @@ use Psr\Http\Message\ResponseInterface;
 interface ClientInterface
 {
     /**
-     *
+     * @param RequestInterface $request
+     * @return Psr\Http\Message\ResponseInterface
      */
-    public function sendRequest(RequestInterface $request);
+    public function handle(RequestInterface $request);
 }
