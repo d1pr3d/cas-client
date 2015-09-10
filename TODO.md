@@ -4,7 +4,7 @@
 - ~~Draft default interfaces~~
 - Validation response
 - Draft implementations
--- ~~Login~~
--- Validate
--- Proxy
+  ~~Login~~
+  Validate
+  Proxy
 - Docs
